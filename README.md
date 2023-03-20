@@ -1,2 +1,2 @@
 # WA-sender
-WA-Sender is a powerful and easy-to-use tool that allows users to send messages on WhatsApp without the need to save the recipient's number. 
+WA-Sender is a powerful and easy-to-use tool that allows users to send messages on WhatsApp without the need to save the recipient's number. With WA-Sender, you can generate a link that can be shared with anyone, allowing them to initiate a conversation with you on WhatsApp. This makes it a great tool for businesses, marketers, and individuals who want to communicate with their customers, followers, or friends without having to go through the hassle of saving and managing their contacts. 
